@@ -1,2 +1,2 @@
 # sorting-visualizer
-because data structures and algorithms have always been boring
+because data structures and algorithm have always been boring
